@@ -30,7 +30,8 @@
          - avl
       - rope
    - graph
-      - dag
+      - directed acyclic graph
+      - cactus graph
 
 ## algorithms
 
